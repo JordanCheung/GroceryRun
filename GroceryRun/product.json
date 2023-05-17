@@ -1,0 +1,1402 @@
+[
+  {
+    "itemImage": "Ale.jpg",
+    "itemName": "Ale",
+    "category": "Alcohol",
+    "price": 4.99,
+    "unit": "500 mL",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Beer Bottle.jpg",
+    "itemName": "Beer Bottle",
+    "category": "Alcohol",
+    "price": 13.99,
+    "unit": "6 X 300 mL",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Beer Cans.jpg",
+    "itemName": "Beer Cans",
+    "category": "Alcohol",
+    "price": 21.99,
+    "unit": "12 X 355 mL",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Vodka.jpg",
+    "itemName": "Vodka",
+    "category": "Alcohol",
+    "price": 8.49,
+    "unit": "4 X 341 mL",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Wine Red.jpg",
+    "itemName": "Red Wine",
+    "category": "Alcohol",
+    "price": 9.99,
+    "unit": "750 mL",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Wine White.jpg",
+    "itemName": "White Wine",
+    "category": "Alcohol",
+    "price": 9.99,
+    "unit": "750 mL",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Bagel.jpg",
+    "itemName": "Bagel",
+    "category": "Bakery",
+    "price": 2.99,
+    "unit": "450 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Bread Grain.jpg",
+    "itemName": "Multigrain Bread",
+    "category": "Bakery",
+    "price": 3.89,
+    "unit": "600 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Bread Raisin.jpg",
+    "itemName": "Raisin Bread",
+    "category": "Bakery",
+    "price": 4.69,
+    "unit": "600 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Bread White.jpg",
+    "itemName": "White Bread",
+    "category": "Bakery",
+    "price": 6.79,
+    "unit": "675 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Buns Burger.jpg",
+    "itemName": "Burger Buns",
+    "category": "Bakery",
+    "price": 2.89,
+    "unit": "576 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Buns Hotdog.jpg",
+    "itemName": "Hotdog Buns",
+    "category": "Bakery",
+    "price": 2.89,
+    "unit": "504 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Cake.jpg",
+    "itemName": "Cake",
+    "category": "Bakery",
+    "price": 19.99,
+    "unit": "800 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Caramel Loaf.jpg",
+    "itemName": "Caramel Loaf",
+    "category": "Bakery",
+    "price": 2.99,
+    "unit": "290 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Cookie.jpg",
+    "itemName": "Cookie",
+    "category": "Bakery",
+    "price": 3.99,
+    "unit": "300 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Croissant.jpg",
+    "itemName": "Croissant",
+    "category": "Bakery",
+    "price": 3.79,
+    "unit": "426 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Cupcake.jpg",
+    "itemName": "Cupcake",
+    "category": "Bakery",
+    "price": 3.99,
+    "unit": "300 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Donut.jpg",
+    "itemName": "Donut",
+    "category": "Bakery",
+    "price": 1.69,
+    "unit": "275 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Muffin.jpg",
+    "itemName": "Muffin",
+    "category": "Bakery",
+    "price": 4.29,
+    "unit": "400 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Pie.jpg",
+    "itemName": "Pie",
+    "category": "Bakery",
+    "price": 2.99,
+    "unit": "500 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Tortilla.jpg",
+    "itemName": "Tortilla",
+    "category": "Bakery",
+    "price": 4.29,
+    "unit": "610 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "7Up.jpg",
+    "itemName": "7 Up",
+    "category": "Beverage",
+    "price": 2.5,
+    "unit": "2 L",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Coffee Ground.jpg",
+    "itemName": "Ground Coffee",
+    "category": "Beverage",
+    "price": 14.99,
+    "unit": "1 kg",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Cream Soda.jpg",
+    "itemName": "Cream Soda",
+    "category": "Beverage",
+    "price": 2.5,
+    "unit": "2 L",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Dr Pepper.jpg",
+    "itemName": "Dr. Pepper",
+    "category": "Beverage",
+    "price": 2.5,
+    "unit": "2 L",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Ginger Ale.jpg",
+    "itemName": "Ginger Ale",
+    "category": "Beverage",
+    "price": 2.5,
+    "unit": "2 L",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Juice Apple.jpg",
+    "itemName": "Apple Juice",
+    "category": "Beverage",
+    "price": 1.59,
+    "unit": "960 mL",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Juice Apple Grape.jpg",
+    "itemName": "Apple Grape Juice",
+    "category": "Beverage",
+    "price": 1.59,
+    "unit": "961 mL",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Juice Berry.jpg",
+    "itemName": "Berry Juice",
+    "category": "Beverage",
+    "price": 1.59,
+    "unit": "962 mL",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Juice Grape.jpg",
+    "itemName": "Grape Juice",
+    "category": "Beverage",
+    "price": 1.59,
+    "unit": "963 mL",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Juice Mango.jpg",
+    "itemName": "Mango Juice",
+    "category": "Beverage",
+    "price": 1.59,
+    "unit": "964 mL",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Juice Orange.jpg",
+    "itemName": "Orange Juice",
+    "category": "Beverage",
+    "price": 1.59,
+    "unit": "965 mL",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Juice Tropical.jpg",
+    "itemName": "Tropical Juice",
+    "category": "Beverage",
+    "price": 1.59,
+    "unit": "966 mL",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Juice Watermelon Apple.jpg",
+    "itemName": "Watermelon Apple Juice",
+    "category": "Beverage",
+    "price": 1.59,
+    "unit": "967 mL",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Lemon Tea.jpg",
+    "itemName": "Lemon Tea",
+    "category": "Beverage",
+    "price": 2.5,
+    "unit": "2 L",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Mountain Dew.jpg",
+    "itemName": "Mountain Dew",
+    "category": "Beverage",
+    "price": 2.5,
+    "unit": "2 L",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Orange Soda.jpg",
+    "itemName": "Orange Soda",
+    "category": "Beverage",
+    "price": 2.5,
+    "unit": "2 L",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Pepsi.jpg",
+    "itemName": "Pepsi",
+    "category": "Beverage",
+    "price": 2.5,
+    "unit": "2 L",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Root Beer.jpg",
+    "itemName": "Root Beer",
+    "category": "Beverage",
+    "price": 2.5,
+    "unit": "2 L",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Canned Beans.jpg",
+    "itemName": "Canned Beans",
+    "category": "Canned Food",
+    "price": 1.79,
+    "unit": "398 mL",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Canned Fruit.jpg",
+    "itemName": "Canned Fruit",
+    "category": "Canned Food",
+    "price": 8.99,
+    "unit": "3.01 kg",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Canned Ham.jpg",
+    "itemName": "Canned Ham",
+    "category": "Canned Food",
+    "price": 8.49,
+    "unit": "454 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Canned Tuna.jpg",
+    "itemName": "Canned Tuna",
+    "category": "Canned Food",
+    "price": 2.59,
+    "unit": "142 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Soup Blackbean.jpg",
+    "itemName": "Blackbean Soup",
+    "category": "Canned Food",
+    "price": 3.25,
+    "unit": "524 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Soup Chicken Noodle.jpg",
+    "itemName": "Chicken Noodle Soup",
+    "category": "Canned Food",
+    "price": 1.89,
+    "unit": "305 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Soup Pea.jpg",
+    "itemName": "Pea Soup",
+    "category": "Canned Food",
+    "price": 2.99,
+    "unit": "539 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Soup Tomato.jpg",
+    "itemName": "Tomato Soup",
+    "category": "Canned Food",
+    "price": 1.89,
+    "unit": "305 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Soup Vegetable.jpg",
+    "itemName": "Vegetable Soup",
+    "category": "Canned Food",
+    "price": 1.69,
+    "unit": "284 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Soup Vermicelli.jpg",
+    "itemName": "Vermicelli Soup",
+    "category": "Canned Food",
+    "price": 2.69,
+    "unit": "769 mL",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Soup Wedding.jpg",
+    "itemName": "Wedding Soup",
+    "category": "Canned Food",
+    "price": 2.99,
+    "unit": "540 mL",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Soup Wonton.jpg",
+    "itemName": "Wonton Soup",
+    "category": "Canned Food",
+    "price": 3.99,
+    "unit": "398 mL",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Cheese Cheddar.jpg",
+    "itemName": "Cheddar Cheese",
+    "category": "Dairy",
+    "price": 4.99,
+    "unit": "300 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Cheese Edam.jpg",
+    "itemName": "Edam Cheese",
+    "category": "Dairy",
+    "price": 4.99,
+    "unit": "300 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Cheese Gouda.jpg",
+    "itemName": "Gouda Cheese",
+    "category": "Dairy",
+    "price": 4.99,
+    "unit": "300 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Cheese Havarti.jpg",
+    "itemName": "Havarti Cheese",
+    "category": "Dairy",
+    "price": 4.99,
+    "unit": "300 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Cheese Mozzarella.jpg",
+    "itemName": "Mozzarella Cheese",
+    "category": "Dairy",
+    "price": 4.99,
+    "unit": "300 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Cheese Slice.jpg",
+    "itemName": "Slice Cheese",
+    "category": "Dairy",
+    "price": 6.79,
+    "unit": "450 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Cheese Swiss.jpg",
+    "itemName": "Swiss Cheese",
+    "category": "Dairy",
+    "price": 4.99,
+    "unit": "270 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Milk Skim.jpg",
+    "itemName": "Skim Milk",
+    "category": "Dairy",
+    "price": 4.99,
+    "unit": "4 L",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Milk 1.jpg",
+    "itemName": "1% Milk",
+    "category": "Dairy",
+    "price": 4.99,
+    "unit": "4 L",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Milk 2.jpg",
+    "itemName": "2% Milk",
+    "category": "Dairy",
+    "price": 4.99,
+    "unit": "4 L",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Milk Homogenized.jpg",
+    "itemName": "Homogenized Milk",
+    "category": "Dairy",
+    "price": 4.99,
+    "unit": "4 L",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Milk Chocolate.jpg",
+    "itemName": "Chocolate Milk",
+    "category": "Dairy",
+    "price": 3.89,
+    "unit": "2 L",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Yogurt.jpg",
+    "itemName": "Yogurt",
+    "category": "Dairy",
+    "price": 4.29,
+    "unit": "750 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Cereal Corn Flakes.jpg",
+    "itemName": "Corn Flakes",
+    "category": "Dried Food",
+    "price": 3.99,
+    "unit": "440 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Cereal Frosted Flakes.jpg",
+    "itemName": "Frosted Flakes",
+    "category": "Dried Food",
+    "price": 9.49,
+    "unit": "1.06 kg",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Cereal Lucky Charms.jpg",
+    "itemName": "Lucky Charms",
+    "category": "Dried Food",
+    "price": 5.49,
+    "unit": "526 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Cereal Nesquik.jpg",
+    "itemName": "Nesquik",
+    "category": "Dried Food",
+    "price": 6.99,
+    "unit": "600 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Cereal Raisin Bran.jpg",
+    "itemName": "Raisin Bran",
+    "category": "Dried Food",
+    "price": 3.99,
+    "unit": "425 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Cereal Special K.jpg",
+    "itemName": "Special K",
+    "category": "Dried Food",
+    "price": 4.99,
+    "unit": "435 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Noodle Cup.jpg",
+    "itemName": "Cup Noodle",
+    "category": "Dried Food",
+    "price": 1.39,
+    "unit": "75 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Noodle Instant.jpg",
+    "itemName": "Instant Noodle",
+    "category": "Dried Food",
+    "price": 0.49,
+    "unit": "85 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Pasta Linguine.jpg",
+    "itemName": "Linguine Pasta",
+    "category": "Dried Food",
+    "price": 2.39,
+    "unit": "500 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Pasta Rigatoni.jpg",
+    "itemName": "Rigatoni Pasta",
+    "category": "Dried Food",
+    "price": 2.39,
+    "unit": "500 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Pasta Spaghetti.jpg",
+    "itemName": "Spaghetti Pasta",
+    "category": "Dried Food",
+    "price": 3.69,
+    "unit": "900 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Rice Brown.jpg",
+    "itemName": "Brown Rice",
+    "category": "Dried Food",
+    "price": 4.79,
+    "unit": "900 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Rice White.jpg",
+    "itemName": "White Rice",
+    "category": "Dried Food",
+    "price": 6.99,
+    "unit": "1.4 kg",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Beef Burger.jpg",
+    "itemName": "Beef Burger",
+    "category": "Frozen Food",
+    "price": 14.39,
+    "unit": "907 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Chicken Burger.jpg",
+    "itemName": "Chicken Burger",
+    "category": "Frozen Food",
+    "price": 9.99,
+    "unit": "850 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Chicken Nuggets.jpg",
+    "itemName": "Chicken Nuggets",
+    "category": "Frozen Food",
+    "price": 8.99,
+    "unit": "907 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Chicken Wings.jpg",
+    "itemName": "Chicken Wings",
+    "category": "Frozen Food",
+    "price": 14.99,
+    "unit": "800 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Frozen Blueberries.jpg",
+    "itemName": "Frozen Blueberries",
+    "category": "Frozen Food",
+    "price": 12.49,
+    "unit": "1.5 kg",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Ice Cream Black Cherry.jpg",
+    "itemName": "Black Cherry Ice Cream",
+    "category": "Frozen Food",
+    "price": 5.99,
+    "unit": "1.5 L",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Ice Cream Caramel.jpg",
+    "itemName": "Caramel Ice Cream",
+    "category": "Frozen Food",
+    "price": 5.99,
+    "unit": "1.5 L",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Ice Cream Chocolate.jpg",
+    "itemName": "Chocolate Ice Cream",
+    "category": "Frozen Food",
+    "price": 5.99,
+    "unit": "1.5 L",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Ice Cream Maple Walnut.jpg",
+    "itemName": "Maple Walnut Ice Cream",
+    "category": "Frozen Food",
+    "price": 5.99,
+    "unit": "1.5 L",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Ice Cream Pistachio.jpg",
+    "itemName": "Pistachio Ice Cream",
+    "category": "Frozen Food",
+    "price": 5.99,
+    "unit": "1.5 L",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Ice Cream Vanilla.jpg",
+    "itemName": "Vanilla Ice Cream",
+    "category": "Frozen Food",
+    "price": 5.99,
+    "unit": "1.5 L",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Ice Cream Sandwich.jpg",
+    "itemName": "Ice Cream Sandwich",
+    "category": "Frozen Food",
+    "price": 6.29,
+    "unit": "12 X 120 mL",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Mac and Cheese.jpg",
+    "itemName": "Mac and Cheese",
+    "category": "Frozen Food",
+    "price": 3.59,
+    "unit": "340 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Mixed Vegetable.jpg",
+    "itemName": "Mixed Vegetable",
+    "category": "Frozen Food",
+    "price": 3.59,
+    "unit": "750 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Pizza.jpg",
+    "itemName": "Pizza",
+    "category": "Frozen Food",
+    "price": 5.19,
+    "unit": "3.90 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Popsicle Fruit.jpg",
+    "itemName": "Fruit Popsicle",
+    "category": "Frozen Food",
+    "price": 6.49,
+    "unit": "12 X 50 mL",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Popsicle Fudge.jpg",
+    "itemName": "Fudge Popsicle",
+    "category": "Frozen Food",
+    "price": 5.79,
+    "unit": "12 X 60 mL",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Chicken Breast.jpg",
+    "itemName": "Chicken Breast",
+    "category": "Meat",
+    "price": 16.52,
+    "unit": "750 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Chicken Drumsticks.jpg",
+    "itemName": "Chicken Drumsticks",
+    "category": "Meat",
+    "price": 9.06,
+    "unit": "1.25 kg",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Egg.jpg",
+    "itemName": "Egg",
+    "category": "Meat",
+    "price": 3.59,
+    "unit": "12 each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Ground Beef.jpg",
+    "itemName": "Ground Beef",
+    "category": "Meat",
+    "price": 6.53,
+    "unit": "450 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Ground Chicken.jpg",
+    "itemName": "Ground Chicken",
+    "category": "Meat",
+    "price": 6.49,
+    "unit": "454 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Ground Pork.jpg",
+    "itemName": "Ground Pork",
+    "category": "Meat",
+    "price": 4.46,
+    "unit": "450 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Ground Turkey.jpg",
+    "itemName": "Ground Turkey",
+    "category": "Meat",
+    "price": 6.91,
+    "unit": "450 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Ham.jpg",
+    "itemName": "Ham",
+    "category": "Meat",
+    "price": 13.31,
+    "unit": "1.1 kg",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Salmon.jpg",
+    "itemName": "Salmon",
+    "category": "Meat",
+    "price": 15.33,
+    "unit": "480 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Sausage.jpg",
+    "itemName": "Sausage",
+    "category": "Meat",
+    "price": 4.59,
+    "unit": "375 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Steak.jpg",
+    "itemName": "Steak",
+    "category": "Meat",
+    "price": 11.56,
+    "unit": "350 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Turkey.jpg",
+    "itemName": "Turkey",
+    "category": "Meat",
+    "price": 41.94,
+    "unit": "6 kg",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Apple.jpg",
+    "itemName": "Apple",
+    "category": "Produce",
+    "price": 0.99,
+    "unit": "each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Asparagus.jpg",
+    "itemName": "Asparagus",
+    "category": "Produce",
+    "price": 5.99,
+    "unit": "each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Avocado.jpg",
+    "itemName": "Avocado",
+    "category": "Produce",
+    "price": 2.69,
+    "unit": "each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Banana.jpg",
+    "itemName": "Banana",
+    "category": "Produce",
+    "price": 0.37,
+    "unit": "each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Bean Sprout.jpg",
+    "itemName": "Bean Sprout",
+    "category": "Produce",
+    "price": 2.99,
+    "unit": "370 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Blueberry.jpg",
+    "itemName": "Blueberry",
+    "category": "Produce",
+    "price": 4.99,
+    "unit": "454 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Bok Choi.jpg",
+    "itemName": "Bok Choi",
+    "category": "Produce",
+    "price": 2.75,
+    "unit": "250 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Broccoli.jpg",
+    "itemName": "Broccoli",
+    "category": "Produce",
+    "price": 4.49,
+    "unit": "each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Cabbage Green.jpg",
+    "itemName": "Green Cabbage",
+    "category": "Produce",
+    "price": 3.49,
+    "unit": "each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Cabbage Napa.jpg",
+    "itemName": "Napa Cabbage",
+    "category": "Produce",
+    "price": 5.25,
+    "unit": "each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Cantaloupe.jpg",
+    "itemName": "Cantaloupe",
+    "category": "Produce",
+    "price": 5.99,
+    "unit": "each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Carrot.jpg",
+    "itemName": "Carrot",
+    "category": "Produce",
+    "price": 5.99,
+    "unit": "2.27 kg",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Cauliflower.jpg",
+    "itemName": "Cauliflower",
+    "category": "Produce",
+    "price": 4.99,
+    "unit": "each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Celery.jpg",
+    "itemName": "Celery",
+    "category": "Produce",
+    "price": 4.99,
+    "unit": "each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Cherry.jpg",
+    "itemName": "Cherry",
+    "category": "Produce",
+    "price": 8.92,
+    "unit": "450 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Corn.jpg",
+    "itemName": "Corn",
+    "category": "Produce",
+    "price": 0.75,
+    "unit": "each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Cucumber.jpg",
+    "itemName": "Cucumber",
+    "category": "Produce",
+    "price": 1.19,
+    "unit": "each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Daikon.jpg",
+    "itemName": "Daikon",
+    "category": "Produce",
+    "price": 2.84,
+    "unit": "each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Eggplant.jpg",
+    "itemName": "Eggplant",
+    "category": "Produce",
+    "price": 1.36,
+    "unit": "each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Garlic.jpg",
+    "itemName": "Garlic",
+    "category": "Produce",
+    "price": 0.62,
+    "unit": "each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Ginger Root.jpg",
+    "itemName": "Ginger Root",
+    "category": "Produce",
+    "price": 1.37,
+    "unit": "each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Grape Black.jpg",
+    "itemName": "Black Grape",
+    "category": "Produce",
+    "price": 4.55,
+    "unit": "454 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Grape Green.jpg",
+    "itemName": "Green Grape",
+    "category": "Produce",
+    "price": 4.55,
+    "unit": "454 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Grape Red.jpg",
+    "itemName": "Red Grape",
+    "category": "Produce",
+    "price": 4.55,
+    "unit": "454 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Kiwi.jpg",
+    "itemName": "Kiwi",
+    "category": "Produce",
+    "price": 0.89,
+    "unit": "each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Lemon.jpg",
+    "itemName": "Lemon",
+    "category": "Produce",
+    "price": 4.99,
+    "unit": "each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Lettuce Iceberg.jpg",
+    "itemName": "Iceberg Lettuce",
+    "category": "Produce",
+    "price": 2.99,
+    "unit": "each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Lettuce Romaine.jpg",
+    "itemName": "Romaine Lettuce",
+    "category": "Produce",
+    "price": 2.69,
+    "unit": "each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Lime.jpg",
+    "itemName": "Lime",
+    "category": "Produce",
+    "price": 0.89,
+    "unit": "each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Mango.jpg",
+    "itemName": "Mango",
+    "category": "Produce",
+    "price": 2.99,
+    "unit": "each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Mushroom.jpg",
+    "itemName": "Mushroom",
+    "category": "Produce",
+    "price": 1.99,
+    "unit": "227 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Onion Green.jpg",
+    "itemName": "Green Onion",
+    "category": "Produce",
+    "price": 1.19,
+    "unit": "each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Onion Red.jpg",
+    "itemName": "Red Onion",
+    "category": "Produce",
+    "price": 1.1,
+    "unit": "each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Onion White.jpg",
+    "itemName": "White Onion",
+    "category": "Produce",
+    "price": 0.99,
+    "unit": "each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Onion Yellow.jpg",
+    "itemName": "Yellow Onion",
+    "category": "Produce",
+    "price": 0.54,
+    "unit": "each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Orange.jpg",
+    "itemName": "Orange",
+    "category": "Produce",
+    "price": 1.69,
+    "unit": "each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Papaya.jpg",
+    "itemName": "Papaya",
+    "category": "Produce",
+    "price": 6.59,
+    "unit": "each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Pear.jpg",
+    "itemName": "Pear",
+    "category": "Produce",
+    "price": 0.99,
+    "unit": "each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Peas.jpg",
+    "itemName": "Peas",
+    "category": "Produce",
+    "price": 2.49,
+    "unit": "200 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Pepper Green.jpg",
+    "itemName": "Green Pepper",
+    "category": "Produce",
+    "price": 1.58,
+    "unit": "each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Pepper Orange.jpg",
+    "itemName": "Orange Pepper",
+    "category": "Produce",
+    "price": 2.09,
+    "unit": "each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Pepper Red.jpg",
+    "itemName": "Red Pepper",
+    "category": "Produce",
+    "price": 2.09,
+    "unit": "each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Pepper Yellow.jpg",
+    "itemName": "Yellow Pepper",
+    "category": "Produce",
+    "price": 2.09,
+    "unit": "each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Pineapple.jpg",
+    "itemName": "Pineapple",
+    "category": "Produce",
+    "price": 4.99,
+    "unit": "each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Plum Black.jpg",
+    "itemName": "Black Plum",
+    "category": "Produce",
+    "price": 1.29,
+    "unit": "each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Plum Red.jpg",
+    "itemName": "Red Plum",
+    "category": "Produce",
+    "price": 1.59,
+    "unit": "each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Potato.jpg",
+    "itemName": "Potato",
+    "category": "Produce",
+    "price": 1.89,
+    "unit": "each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Radish.jpg",
+    "itemName": "Radish",
+    "category": "Produce",
+    "price": 1.99,
+    "unit": "each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Spinach.jpg",
+    "itemName": "Spinach",
+    "category": "Produce",
+    "price": 5.99,
+    "unit": "312 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Squash Acorn.jpg",
+    "itemName": "Acorn Squash",
+    "category": "Produce",
+    "price": 3.95,
+    "unit": "each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Squash Buttercup.jpg",
+    "itemName": "Buttercup Squash",
+    "category": "Produce",
+    "price": 5.27,
+    "unit": "each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Squash Butternut.jpg",
+    "itemName": "Butternut Squash",
+    "category": "Produce",
+    "price": 8.79,
+    "unit": "each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Squash Spaghetti.jpg",
+    "itemName": "Spaghetti Squash",
+    "category": "Produce",
+    "price": 8.79,
+    "unit": "each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Strawberry.jpg",
+    "itemName": "Strawberry",
+    "category": "Produce",
+    "price": 4.99,
+    "unit": "454 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Tomato.jpg",
+    "itemName": "Tomato",
+    "category": "Produce",
+    "price": 1.5,
+    "unit": "each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Watermelon.jpg",
+    "itemName": "Watermelon",
+    "category": "Produce",
+    "price": 8.99,
+    "unit": "each",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Chips BBQ.jpg",
+    "itemName": "BBQ Chips",
+    "category": "Snacks",
+    "price": 3.89,
+    "unit": "255 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Chips Ketchup.jpg",
+    "itemName": "Ketchup Chips",
+    "category": "Snacks",
+    "price": 3.89,
+    "unit": "255 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Chips Lightly Salted.jpg",
+    "itemName": "Lightly Salted Chips",
+    "category": "Snacks",
+    "price": 3.89,
+    "unit": "255 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Chips Regular.jpg",
+    "itemName": "Regular Chips",
+    "category": "Snacks",
+    "price": 3.89,
+    "unit": "255 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Chips Salt and Vinegar.jpg",
+    "itemName": "Salt & Vinegar Chips",
+    "category": "Snacks",
+    "price": 3.89,
+    "unit": "255 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Cookie Box.jpg",
+    "itemName": "Box of Cookies",
+    "category": "Snacks",
+    "price": 3.29,
+    "unit": "300 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Cracker Goldfish.jpg",
+    "itemName": "Goldfish Cracker",
+    "category": "Snacks",
+    "price": 3.19,
+    "unit": "200 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Cracker Ritz.jpg",
+    "itemName": "Ritz Cracker",
+    "category": "Snacks",
+    "price": 3.29,
+    "unit": "200 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Ferrero Rocher.jpg",
+    "itemName": "Ferrero Rocher",
+    "category": "Snacks",
+    "price": 13.99,
+    "unit": "300 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Granola Bar.jpg",
+    "itemName": "Granola Bar",
+    "category": "Snacks",
+    "price": 2.99,
+    "unit": "210 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Gummies.jpg",
+    "itemName": "Gummies",
+    "category": "Snacks",
+    "price": 2.69,
+    "unit": "170 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Nuts.jpg",
+    "itemName": "Nuts",
+    "category": "Snacks",
+    "price": 7.79,
+    "unit": "425 g",
+    "quantity": 0
+  },
+  {
+    "itemImage": "Pretzel.jpg",
+    "itemName": "Pretzel",
+    "category": "Snacks",
+    "price": 8.99,
+    "unit": "400 g",
+    "quantity": 0
+  }
+]
